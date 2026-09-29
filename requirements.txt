@@ -1,0 +1,6 @@
+autogen-agentchat==0.7.5
+autogen-ext
+tavily-python
+python-dotenv
+streamlit
+pytest
